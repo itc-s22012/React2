@@ -1,4 +1,7 @@
+import Logo from 'components/logo'
 export default function() {
-return (<footer>Footer</footer>
+return (<footer>
+      <Logo />
+       </footer>
 )
 }
